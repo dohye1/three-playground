@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/three-playground/static/css/main.97208872.css",
+    "main.js": "/three-playground/static/js/main.10f1699a.js",
+    "static/js/453.588dae3d.chunk.js": "/three-playground/static/js/453.588dae3d.chunk.js",
+    "index.html": "/three-playground/index.html",
+    "main.97208872.css.map": "/three-playground/static/css/main.97208872.css.map",
+    "main.10f1699a.js.map": "/three-playground/static/js/main.10f1699a.js.map",
+    "453.588dae3d.chunk.js.map": "/three-playground/static/js/453.588dae3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97208872.css",
+    "static/js/main.10f1699a.js"
+  ]
+}
